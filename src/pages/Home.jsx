@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import '../styles/Home.css';
 import bhasadiwas from '../assets/Bhasadiwas.jpg';
-import bhasadiwas1 from '../assets/Bhasadiwas1.jpg';
+import bhasadiwas1 from '../assets/bhasadiwas1.jpg';
 import bhasadiwas2 from '../assets/Bhasadiwas2.jpg';
 import event from '../assets/event.jpg';
 import event1 from '../assets/event1.jpg';
