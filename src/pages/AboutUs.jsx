@@ -5,7 +5,7 @@ import '../styles/AboutUs.css';
 import malisamaj from '../assets/malisamaj.jpg';
 import groupPic from '../assets/groupPic.jpg';
 import bhasadiwas from '../assets/Bhasadiwas.jpg';
-import bhasadiwas1 from '../assets/Bhasadiwas1.jpg';
+import bhasadiwas1 from '../assets/bhasadiwas1.jpg';
 import bhasadiwas2 from '../assets/Bhasadiwas2.jpg';
 
 const AboutUs = () => {
